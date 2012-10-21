@@ -5,7 +5,8 @@
 # files for the dex VM
 *.dex                git /'ɡɪt/
 
-# Java class files
+# Java class files    /*dsijf
+
 *.class
 
 # generated files
